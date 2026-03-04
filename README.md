@@ -8,6 +8,7 @@
 - 🧠 Interested in **AI-powered Web Applications**
 - 💬 Ask me about **React, JavaScript, Tailwind, Node.js**
 - 📫 Reach me: **singhaditya.cs@gmail.com**
+- 🚀 Portfolio: **www.singhaditya.dev**
 
 ---
 
