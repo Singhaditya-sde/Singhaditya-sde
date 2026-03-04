@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer from **India**
+- 💻 Full Stack & GenAI Developer from **India**
 - 🚀 Currently building **SmartEdu**
 - 🧠 Interested in **AI-powered Web Applications**
 - 💬 Ask me about **React, JavaScript, Tailwind, Node.js**
