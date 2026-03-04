@@ -40,19 +40,6 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,typescript,nextjs,git,postman" />
+<img src="https://skillicons.dev/icons?i=html,js,typescript,react,tailwind,nodejs,express,mongodb,postgres,git,postman,vite,bun,aws,docker" />
 
 </p>
-
----
-
-### 🚀 Current Focus
-
-- Building **real-world MERN stack applications**
-- Exploring **GenAI integrations**
-- Improving **backend architecture**
-- Contributing to **open-source**
-
----
-
-⭐️ From **Aditya Kumar**
