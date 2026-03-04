@@ -4,31 +4,41 @@
 Full Stack Developer • MERN Stack • Exploring GenAI
 </p>
 
+<p align="center">
+Building scalable web apps with modern technologies 🚀
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Building **SmartEdu**
-- 🌱 Learning **GenAI & Backend Systems**
+- 💻 Full Stack Developer from **India**
+- 🚀 Currently building **SmartEdu**
+- 🌱 Learning **GenAI & Advanced Backend Systems**
+- 🧠 Interested in **AI-powered Web Applications**
 - 💬 Ask me about **React, JavaScript, Tailwind, Node.js**
-- 📍 India
+- 📫 Reach me: **singhaditya.cs@gmail.com**
 
 ---
 
-### 🌐 Connect
+### 🌐 Connect with Me
 
 <p align="left">
 
+<a href="https://github.com/Singhaditya-sde">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+
 <a href="https://twitter.com/singhaditya_adi">
-<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
+<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
 </a>
 
 <a href="https://linkedin.com/in/singhaditya-adi">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
 <a href="https://instagram.com/singhaditya_adi">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 
 </p>
@@ -45,20 +55,13 @@ Full Stack Developer • MERN Stack • Exploring GenAI
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Current Focus
 
-<p align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=singhaditya-sde&show_icons=true&theme=tokyonight"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaditya-sde&layout=compact&theme=tokyonight"/>
-
-</p>
+- Building **real-world MERN stack applications**
+- Exploring **GenAI integrations**
+- Improving **backend architecture**
+- Contributing to **open-source**
 
 ---
 
-### 🔥 Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya-sde&theme=tokyonight"/>
-</p>
+⭐️ From **Aditya Kumar**
