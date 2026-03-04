@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aditya Kumar</h1>
 
-<p align="center">
-Full Stack Developer • MERN Stack • Exploring GenAI
-</p>
-
-<p align="center">
-Building scalable web apps with modern technologies 🚀
-</p>
-
----
 
 ### 👨‍💻 About Me
 
