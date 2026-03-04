@@ -8,7 +8,7 @@
 - 🧠 Interested in **AI-powered Web Applications**
 - 💬 Ask me about **React, JavaScript, Tailwind, Node.js**
 - 📫 Reach me: **singhaditya.cs@gmail.com**
-- 🚀 Portfolio: **www.singhaditya.dev**
+- 🌐 Portfolio: **www.singhaditya.dev**
 
 ---
 
@@ -38,8 +38,30 @@
 
 ### ⚒ Tech Stack
 
-<p align="left">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,js,typescript,react,tailwind,nodejs,express,mongodb,postgres,git,postman,vite,bun,aws,docker" />
+<td align="left">
+<b>Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwind" />
+</td>
 
-</p>
+<td align="left">
+<b>Backend</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+
+<td align="left">
+<b>Database</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</td>
+
+<td align="left">
+<b>Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,postman,aws,docker" />
+</td>
+
+</tr>
+</table>
+
+
