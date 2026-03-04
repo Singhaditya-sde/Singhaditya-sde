@@ -1,43 +1,45 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Exploring GenAI</h3>
+<h1 align="center">Hi 👋 I'm Aditya Kumar</h1>
 
 <p align="center">
-Building scalable web apps with modern technologies 🚀
+Full Stack Developer • MERN Stack • Exploring GenAI
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer from India  
-- 🚀 Currently building **SmartEdu**  
-- 🌱 Learning **GenAI & Advanced Backend**  
-- 🔍 Interested in **AI-powered web applications**  
+- 🚀 Building **SmartEdu**
+- 🌱 Learning **GenAI & Backend Systems**
 - 💬 Ask me about **React, JavaScript, Tailwind, Node.js**
+- 📍 India
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="left">
-<a href="https://twitter.com/singhaditya_adi" target="blank">
-<img src="https://img.shields.io/twitter/follow/singhaditya_adi?logo=twitter&style=for-the-badge" />
+
+<a href="https://twitter.com/singhaditya_adi">
+<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"/>
 </a>
-<a href="https://linkedin.com/in/singhaditya-adi" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin"/>
+
+<a href="https://linkedin.com/in/singhaditya-adi">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://instagram.com/singhaditya_adi" target="blank">
-<img src="https://img.shields.io/badge/Instagram-Aditya-red?style=for-the-badge&logo=instagram"/>
+
+<a href="https://instagram.com/singhaditya_adi">
+<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
 </a>
+
 </p>
 
 ---
 
-### ⚒️ Tech Stack
+### ⚒ Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,typescript,nextjs,redis,git,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,typescript,nextjs,git,postman" />
 
 </p>
 
@@ -47,29 +49,16 @@ Building scalable web apps with modern technologies 🚀
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhaditya-sde&show_icons=true&theme=tokyonight" height="150"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=singhaditya-sde&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=singhaditya-sde&layout=compact&theme=tokyonight" height="150"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhaditya-sde&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhaditya-sde&theme=tokyonight"/>
 </p>
-
----
-
-### 🚀 Current Focus
-
-- MERN Stack Development  
-- AI + Web Applications  
-- Open Source Contributions  
-- Building Real World Projects
-
----
-
-⭐️ From **Aditya Kumar**
